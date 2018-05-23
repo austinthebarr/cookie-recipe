@@ -2,7 +2,7 @@
 
 #### _Cookie Recipe, using HTML_
 
-#### By _##Austin Barr##_
+#### By _Austin Barr_
 
 ## Description
 
